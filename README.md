@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nitesh Addagatla.
-- 🌱 Currently, I'm pursuing B.E in Computer Science.
+- 🌱 Completed my B.E. in Computer Science Engineering 2023.
 - 💞️ I’m interested in Python, R, AI, ML, and Web Develpoment.
 - 📫 How to reach me? -> naddagatla04@gmail.com.
 - 🔗 Let's get connected: https://www.linkedin.com/in/nitesh-addagatla/
